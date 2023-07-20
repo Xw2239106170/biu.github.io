@@ -1,0 +1,22 @@
+h1{
+    text-align: center;
+}
+body {
+    background-color: #fff;
+    background: url("./R.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div{
+    text-align: center;
+    width: 700px;
+    height: 700px;
+    text-align: center;
+    margin: 0 auto;
+    background-repeat: no-repeat;
+    background-size: 700px 700px;
+}
+ul{
+    list-style: none;
+}
